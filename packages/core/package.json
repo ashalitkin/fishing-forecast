@@ -1,0 +1,9 @@
+{
+  "name": "@ff/core",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Species profiles, scoring model and fishing rules engine (pure functions).",
+  "main": "dist/index.js",
+  "scripts": { "build": "tsc -b" }
+}

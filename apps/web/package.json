@@ -1,0 +1,7 @@
+{
+  "name": "@ff/web",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Map UI: React + MapLibre GL, hour slider, species picker, spot cards."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@ff/collectors",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scheduled fetchers for marine, weather, tide and geo data.",
+  "main": "dist/index.js",
+  "scripts": { "build": "tsc -b" }
+}
